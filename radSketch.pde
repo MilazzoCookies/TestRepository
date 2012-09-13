@@ -9,7 +9,7 @@ boolean scrmb = false;
 boolean[] btns;
 
 void setup(){
-  size(620, 480);
+  size(480, 480);
   background(0);
   stroke(0);
   strokeWeight(4);
